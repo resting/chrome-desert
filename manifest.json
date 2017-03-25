@@ -1,0 +1,66 @@
+{
+  "name": "Chrome Desert",
+  "description": "Inspired by iterm2 Desert: http://iterm2colorschemes.com",
+  "version": "1.0",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame" : "images/frame.png"
+    },
+    "colors": {
+      "frame": [
+        66,
+        66,
+        66
+      ],
+      "frame_inactive": [
+        86,
+        86,
+        86
+      ],
+      "toolbar": [
+        66,
+        66,
+        66
+      ],
+      "tab_text": [
+        252,
+        217,
+        66
+      ],
+      "tab_background_text": [
+        253,
+        249,
+        123
+      ],
+      "bookmark_text": [
+        252,
+        217,
+        6
+      ],
+      "ntp_background": [
+        66,
+        66,
+        66
+      ],
+      "ntp_text": [
+        252,
+        217,
+        6
+      ],
+      "button_background": [
+        66,
+        66,
+        6
+      ]
+    },
+    "tints": {
+      "background_tab": [
+        0,
+        0,
+        0.55 
+      ]
+    },
+    "properties": {}
+  }
+}
